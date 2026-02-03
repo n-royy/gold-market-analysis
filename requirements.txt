@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+requests
+beautifulsoup4
+yfinance
+python-dotenv
+pydantic
+html5lib
+streamlit
+pandas
+plotly
